@@ -9,6 +9,11 @@
    }
 
    /* ############## Header styling ######### */
+
+  .header{
+      height: 95vh;
+      background:url('../img/get of india.jpg');
+      
   .bg-dark{
     background-color: #263238;
     color: white;
